@@ -1,0 +1,12 @@
+body {
+  background: url("fon1.gif");
+}
+
+.index-block {
+  height: auto;
+  background: #343A40;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+}
