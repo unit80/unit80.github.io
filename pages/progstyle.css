@@ -1,0 +1,38 @@
+body {
+  background: url("fon2.gif");
+}
+
+.block-logo {
+  border-bottom: 2px solid #111011;
+  padding-top: 4px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 10px;
+  background: #FFFFFF;
+}
+
+.block-logo-t {
+  color: black;
+}
+
+.block-prog {
+  height: auto;
+  background: #343A40;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.block-prog-img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.block-prog-text {
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+
+.block-prog-footer {
+  color: white;
+}
