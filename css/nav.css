@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ul.nav {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  text-align: center;
+  background: black;
+}
+
+.nav li {
+  display: inline;
+}
+
+ul.nav a {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 8em;
+  padding: 12px;
+  background: #282828;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  border-bottom: 4px solid black;
+}
+
+ul.nav a:hover {
+  border-bottom: 4px solid #474747;
+}

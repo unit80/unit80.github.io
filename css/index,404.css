@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background: #282828;
+}
+
+.div {
+  text-align: center;
+  font-family: 'Roboto';
+  padding-top: 160px;
+  margin: auto;
+  width: 820px;
+}
+
+.button {
+  border-radius: 20px;
+  color: white;
+  background: green;
+}
+
+.button:hover {
+  background: #009100;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 60px;
+  color: white;
+}
